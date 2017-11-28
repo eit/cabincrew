@@ -1453,7 +1453,7 @@
 		header p {
 			display: block;
 			margin: 0;
-			padding: 0.25em 0 0.5em 0;
+			padding: 0.5em 0 0.5em 0;
 		}
 
 	footer {
@@ -2048,7 +2048,8 @@
 			}
 
 			.main > header p {
-				margin: 2em 0 0 0;
+				margin: 2em 8em 4em 8em;
+				width:70%;
 				padding: 0;
 				text-align: left;
 			}
